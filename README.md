@@ -1,5 +1,4 @@
 # time_series
-Some works where I used time series.
 
 *FED MODEL*
 
